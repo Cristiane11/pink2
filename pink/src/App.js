@@ -12,7 +12,9 @@ function App() {
         <p>
           <Horas/>
         </p>
-        <hr/>
+        <br/>
+        <ToDoList/>
+        <ToDoList/>
         <ToDoList/>
        
       </header>
