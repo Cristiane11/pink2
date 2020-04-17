@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div className="todo-list">
       <header className="App-header">
         
         <p>

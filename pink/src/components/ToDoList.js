@@ -4,18 +4,10 @@ import ReactDOM from "react-dom"
 
 function ToDoList(){
     return(
-        <div>
+        <div className="todo-item">
             <input type="checkbox" />
             <p>Placeholder text here</p>
             
-            <input type="checkbox" />
-            <p>Practice React</p>
-            
-            <input type="checkbox" />
-            <p>Call Dish to reduz the bill</p>
-            
-            <input type="checkbox" />
-            <p>Pay Gaz</p>
             
         </div>
     )
