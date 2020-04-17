@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
-import Horas from './time/Horas'
+import Horas from './components/Horas';
+import ToDoList from './components/ToDoList'
 import './App.css';
 
 function App() {
@@ -11,6 +12,8 @@ function App() {
         <p>
           <Horas/>
         </p>
+        <hr/>
+        <ToDoList/>
        
       </header>
     </div>
