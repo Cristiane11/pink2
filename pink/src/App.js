@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from './logo.svg';
 import Horas from './components/Horas';
-import ToDoList from './components/ToDoList'
+import ToDoList from './components/ToDoList';
+import ContactCard from './components/ContactCard';
 import './App.css';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
         <ToDoList/>
         <ToDoList/>
         <ToDoList/>
+        <ContactCard/>S
        
       </header>
     </div>
